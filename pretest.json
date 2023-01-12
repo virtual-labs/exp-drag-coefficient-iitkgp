@@ -1,0 +1,42 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Friction losses occur due to shear resistance between boundary wall of the duct.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+       
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What are the two types of drag forces",
+      "answers": {
+        "a": "Form drag and Pressure drag",
+        "b": "Pressure drag and friction drag",
+        "c":"Form drag and Friction drag",
+        "d":"None"
+        
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Shock losses are resulted due to expansion and contraction of the duct.",
+      "answers": {
+        "a": "False",
+        "b": "True"
+        
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+
+    
+  ]
+}

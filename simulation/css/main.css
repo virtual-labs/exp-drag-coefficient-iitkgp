@@ -1,0 +1,220 @@
+/* Lab: Mine Automation and Virtual Reality
+   Exp:Determination of Shock Pressure Loss in Presence of Tub and Estimation of Drag Co-efficient
+   File name: main.css
+   Author:Prakriti Dhang
+*/
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+table,th,td{
+    text-align: center;
+    font-size: medium;
+    width: 20%;
+}
+
+.img-container{
+    display: inline-block;
+    position: relative;
+   
+  }
+  
+  .poscol{
+    width: 100%;
+    min-width: 23px;
+    min-height: 1px;
+    }
+    
+    .poscol img{
+      max-width: 100%;
+      height: auto;
+    }
+
+#ductimg{
+    position: relative;
+    top:10%;
+    width:95%;
+}
+
+#ductscale{
+    position: absolute;
+    top:-15%;
+    left: 20%;
+    width: 76.5%;
+    height:126% ;
+}
+
+#anemometerr{
+    position: absolute;
+    left: 95%;
+    bottom:-70%;
+    width:5%;
+        
+     }
+    
+     /*User postion */
+#user{
+    position: absolute;
+    left: 96%;
+    top:95%;
+    width:12%;
+    transform: rotateY(-180deg)
+        
+     }
+ #addtubd{
+        position: absolute;
+        top:30%;
+        left: 50%;
+        width: 10%;
+        display:none;
+       
+    }
+#ductcrop{
+    position: absolute;
+    top:1%;
+    left: 39%;
+    width: 35%;
+    height:70% ;
+ 
+}
+
+
+ /*  Flow control device  1 */
+ #contldevice1 {
+    position: absolute;
+    left: 0%;
+    top:300%;
+    width:12%;
+    animation: tplate1 10s linear;
+   /* margin-left: 50% !important;*/
+  }
+
+ /*  Flow control device 2 */
+#contldevice2 {
+    position: absolute;
+    left: 0%;
+    top:300%;
+    width:12%;
+   
+  }
+  /*  Flow control device 3 */
+#contldevice3 {
+    position: absolute;
+    left: 0%;
+    top:300%;
+    width:12%;
+  }
+
+  /*  Flow control device 4 */
+ #contldevice4 {
+    position: absolute;
+    left: 0%;
+    top:300%;
+    width:12%;
+   
+  }
+  #contldevice5 {
+    position: absolute;
+    left: 0%;
+    top:300%;
+    width:12%;
+   
+  }
+#pressurebox{
+    position: absolute;
+    top:334%;
+    left:53%;
+    width:10%;
+}
+
+#plus{
+    position:absolute;
+    top:232%;
+    left:52%;
+    width:7%;
+}
+#connect1{
+    position: absolute;
+    top:15%;
+    left: 32%;
+    width:35%;
+    transform: rotate(-15deg);
+}
+#connect2{
+    position: absolute;
+    top:1%;
+    left: 65%;
+    width:35%;
+    transform: rotate(-14deg);
+}
+#connect3{
+
+    position: absolute;
+    top:298%;
+    left:50%;
+    width:20%;
+    transform: rotate(10deg);
+   /* position: absolute;
+    top:395px;
+    left: 320px;
+    transform: rotate(-20deg);*/
+}
+#connect4{
+    position: absolute;
+    top:270%;
+    left:50%;
+    width:16%;
+    transform: rotate(0deg);
+}
+
+#scale{
+    position: absolute;
+    top: 262%;
+    left:60%;
+    width:55%;
+    height:40%;
+    transform: rotate(-50deg);
+}
+
+#myCanvas{
+    position: absolute;
+    top: 143%;
+    left:82%;
+    width:2%;
+    height:250%;
+    transform: rotate(40deg) ;
+    }
+
+
+
+    
+  @media print {
+    body {-webkit-print-color-adjust: exact !important;
+       
+        
+    }
+    }
+    @page {
+        margin: 1in; 
+      }
+      
+    @print {
+       @page :footer {
+          display: none;
+          
+           
+       }
+     
+       @page :header {
+          display: none;
+          
+       }
+   }
+   @media print {
+    #myPlot {
+      padding-right: 1cm;
+    }
+  }
