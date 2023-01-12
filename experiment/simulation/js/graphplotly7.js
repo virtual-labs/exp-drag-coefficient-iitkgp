@@ -1,4 +1,5 @@
-/* Lab:exp_7_Determination of Shock Pressure Loss in Presence of Tub and Estimation of Drag Co-efficient
+/* Lab: Mine Automation and Virtual Reality
+   Exp: Determination of Shock Pressure Loss in Presence of Tub and Estimation of Drag Co-efficient
 	 File name: graphplotly7.js
    Author:Prakriti Dhang
 */
