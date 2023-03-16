@@ -2,37 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The pressure loss in fluid flow (P <sub>L</sub>) has two components ______ and  _____",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Friction loss (P<sub>F</sub>) and the Pressure loss (P<sub>L</sub>)",
+        "b": "Friction loss (P<sub>F</sub>) and the Shock loss (P<sub>X</sub>)",
+        "c": "Pressure loss (P<sub>L</sub>) and the Shock loss (P<sub>X</sub>)",
+        "d": "None"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Shock losses also occur at the inlet and outlet of system and at the junction of any air currents. ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
+        
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+    
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "Kata thermometer can be used to estimate dry Kata cooling power as well as wet Kata cooling power. ",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
       },
-      "correctAnswer": "c",
+    
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
