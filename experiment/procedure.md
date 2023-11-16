@@ -44,7 +44,7 @@ Then press "OK" after viewing the dimension of the duct and then press the Butto
 <img src="images/pro_sim_5.jpg" width="40%">
 </div>
 
-Wait till the Duct's Open Space is not covered. Then Click on the flow control device to measure the air velocity and the pressure difference.
+Wait till the Duct's Open Space is not covered. Then Click on the flow control device to measure the air velocity and the pressure difference. Next click on "Anemometer Traversing" button.
 
 <div align="center">
 <img src="images/pro_sim_6.jpg" width="40%">
@@ -56,13 +56,13 @@ After that Stop the Anemometer traversing by clicking the "Stop Anemometer" butt
 <img src="images/pro_sim_7.jpg" width="40%">
 </div>
 
-When the data is generated then add The result to the observation table by clicking the "ADD Result to the Observation table" button.
+When the data is generated then add the result  by clicking the "Add Result to the Observation table" button.
 
 <div align="center">
 <img src="images/pro_sim_8.jpg" width="40%">
 </div>
 
-Does the same process for regulating the air flow in the duct by flow control device, after 4 numbers of measurements plot the graph for coefficient of dragloss.
+Repeat for regulating the air flow in the duct by flow control device, after 4  measurements plot the graph for coefficient of dragloss.
 
 <div align="center">
 <img src="images/pro_sim_9.jpg" width="40%">
