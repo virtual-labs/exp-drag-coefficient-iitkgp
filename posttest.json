@@ -1,0 +1,40 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The pressure loss in fluid flow (P <sub>L</sub>) has two components ______ and  _____",
+      "answers": {
+        "a": "Friction loss (P<sub>F</sub>) and the Pressure loss (P<sub>L</sub>)",
+        "b": "Friction loss (P<sub>F</sub>) and the Shock loss (P<sub>X</sub>)",
+        "c": "Pressure loss (P<sub>L</sub>) and the Shock loss (P<sub>X</sub>)",
+        "d": "None"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Shock losses also occur at the inlet and outlet of system and at the junction of any air currents. ",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+    
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "Kata thermometer can be used to estimate dry Kata cooling power as well as wet Kata cooling power. ",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+    
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
